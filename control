@@ -1,0 +1,13 @@
+Name: Revelio
+Package: com.thecomputerwhisperer.Revelio
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make your app icons fade into view
+Depiction: https://legitcomputerwhisperer.github.io/depic/Revelio/index.html
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Section: Tweaks
+dev: TheComputerWhisperer
+Icon: file:///Library/PreferenceBundles/Revelio.bundle/icon@2x.png
