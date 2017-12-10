@@ -5,19 +5,21 @@ Revelio, named after the revealing spell from Harry Potter, is a customizable fa
 ## Features
 Available animation triggers include:
 
-● Fade-in from unlock
-● Fade-in from home button press
-● Fade-in after exiting folders
+- Fade-in from unlock
+- Fade-in from home button press
+- Fade-in after exiting folders
 
 Animation speed is configurable from 1 second up to 15 seconds for each trigger. Triggers can also be disabled individually via a preference panel in Settings.
 
 ## Building
-● Revelio is built using [theos](https://github.com/DHowett/theos). Follow the [setup](http://iphonedevwiki.net/index.php/Theos/Setup) guide to install it.
-● Run ```make clean package install THEOS_DEVICE_IP=xxx THEOS_DEVICE_PORT=xxx``` to build and install Revelio on your device.
+- Revelio is built using [theos](https://github.com/DHowett/theos). Follow the [setup](http://iphonedevwiki.net/index.php/Theos/Setup) guide to install it.
+
+- Run ```make clean package install THEOS_DEVICE_IP=xxx THEOS_DEVICE_PORT=xxx``` to build and install Revelio on your device.
 
 ## Dependencies
-● [Cydia Substrate](http://iphonedevwiki.net/index.php/Cydia_Substrate) the de facto framework that allows 3rd-party developers to provide run-time patches (“Cydia Substrate extensions”) to system functions
-● [preferenceloader](https://github.com/DHowett/preferenceloader) enables inclusion of a Settings panel for user configuration of the tweak
+- [Cydia Substrate](http://iphonedevwiki.net/index.php/Cydia_Substrate) the de facto framework that allows 3rd-party developers to provide run-time patches (“Cydia Substrate extensions”) to system functions
+
+- [preferenceloader](https://github.com/DHowett/preferenceloader) enables inclusion of a Settings panel for user configuration of the tweak
 
 ## License
 
@@ -32,9 +34,9 @@ _______________________________
 
 Available animation triggers include:
 
-● Fade-in from unlock
-● Fade-in from home button press
-● Fade-in after exiting folders
+- Fade-in from unlock
+- Fade-in from home button press
+- Fade-in after exiting folders
 
 Animation speeds are configurable from 1 to 15 seconds for each trigger. Triggers can also be disabled individually. Touch interactions are not disabled during animation, which can be helpful in urgent situations.
 _______________________________
