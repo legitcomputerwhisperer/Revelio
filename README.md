@@ -29,7 +29,7 @@ MIT License
 
 Revelio, named after the revealing spell from Harry Potter, is a customizable fade-in animation tweak which makes your home screen app icons appear after a defined time.
 
-This tweak the exact opposite of "Evanesco"...a tweak from CPDigitalDarkroom which makes your homescreen app icons disappear after a set amount of time.
+This tweak the exact opposite of ["Evanesco"](http://cydia.saurik.com/package/com.cpdigitaldarkroom.evanesco/) ...a tweak from CPDigitalDarkroom which makes your homescreen app icons disappear after a set amount of time.
 _______________________________
 
 Available animation triggers include:
